@@ -1,3 +1,6 @@
+---
+layout: post
+---
 Scratch tutorial: Grib mønterne!
 ================================
 *af Sebastian Paaske Tørholm og Martin Dybdal*

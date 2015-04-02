@@ -1,3 +1,6 @@
+---
+layout: post
+---
 Scratch-tutorial: Labyrinten
 ============================
 *af Martin Dybdal, idé: Martin Exner*
