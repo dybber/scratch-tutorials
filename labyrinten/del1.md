@@ -2,7 +2,7 @@ Scratch-tutorial: Labyrinten
 ============================
 *af Martin Dybdal, idé: Martin Exner*
 
-![](del1-billeder/image_0.png)
+![](del1-billeder/image_00.png)
 
 I denne tutorial vil jeg forklare hvordan du kan lave et spil hvor musen Piv skal finde ost i lastrummet i Kaptajn Hacks sørøverskib!
 
@@ -18,27 +18,27 @@ Først skal vi tegne hvordan musen skal se ud og labyrinten den skal løb rundt 
 
 Start med at klikke på penslen, for at oprette en ny figur (engelsk: sprite):
 
-![](del1-billeder/image_1.png)
+![](del1-billeder/image_01.png)
 
 Tegn hvordan musen skal se ud og sørg for at du tegner den præcis midt på skærmen! Her er min:
 
-![](del1-billeder/image_2.png)
+![](del1-billeder/image_02.png)
 
 Lad os give figuren et navn. Det gøres ved at trykke på det lille "i" ved siden af figuren:
 
-![](del1-billeder/image_3.png)
+![](del1-billeder/image_03.png)
 
 Jeg kalder min for "mus":
 
-![](del1-billeder/image_4.png)
+![](del1-billeder/image_04.png)
 
 Vi skal også have en labyrint! Den tegner vi som en "baggrund". For at lave en baggrund skal du klikke her:
 
-![](del1-billeder/image_5.png)
+![](del1-billeder/image_05.png)
 
 Og så her:
 
-![](del1-billeder/image_6.png)
+![](del1-billeder/image_06.png)
 
 Tegn nu en labyrint. 
 
@@ -48,17 +48,17 @@ Tegn nu en labyrint.
 
 Her er min labyrint:
 
-![](del1-billeder/image_7.png)
+![](del1-billeder/image_07.png)
 
 Gangene er blevet lidt små i forhold til musen, så lad os gøre musen lidt mindre, så den kan komme rundt. 
 
 Det gør du ved at trykke på:
 
-![](del1-billeder/image_8.png)
+![](del1-billeder/image_08.png)
 
 i toppen af skærmen og derefter på figuren der skal blive mindre! Sådan det var bedre:
 
-![](del1-billeder/image_9.png)
+![](del1-billeder/image_09.png)
 
 ## Del 2: Styr med piletasterne
 
