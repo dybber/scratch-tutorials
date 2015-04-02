@@ -1,5 +1,7 @@
-Scratch tutorial 1: Grib mønterne!
-==================================
+---
+layout: post
+title: Scratch tutorial 1: Grib mønterne!
+---
 *af Sebastian Paaske Tørholm og Martin Dybdal*
 
 ![](del1-billeder/image_00.png)
