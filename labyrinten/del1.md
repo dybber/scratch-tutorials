@@ -9,9 +9,9 @@ Scratch-tutorial: Labyrinten
 
 I denne tutorial vil jeg forklare hvordan du kan lave et spil hvor musen Piv skal finde ost i lastrummet i Kaptajn Hacks sørøverskib!
 
-Start med at oprette en konto på [http://scratch.mit.edu](http://cratch.mit.edu/) hvis du ikke allerede har en. Ellers kan du ikke gemme dit spil til næste gang.
+Start med at oprette en konto på <http://scratch.mit.edu> hvis du ikke allerede har en. Ellers kan du ikke gemme dit spil til næste gang.
 
-Hvis du får problemer mens du er derhjemme, så skriv et spørgsmål på Coding Pirates-forummet: [http://forum.codingpirates.dk/](http://forum.codingpirates.dk/) 
+Hvis du får problemer mens du er derhjemme, så skriv et spørgsmål på Coding Pirates-forummet: <http://forum.codingpirates.dk/>
 
 ## Del 1: Tegn labyrinten og spilleren
 

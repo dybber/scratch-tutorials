@@ -9,9 +9,9 @@ Scratch tutorial: Grib mønterne!
 
 I denne tutorial vil jeg forklare hvordan du kan lave dit helt eget Scratch spil, hvor man skal gribe det der falder ned! Du bestemmer selv hvad det er der skal falde ned, måske nogle tallerkener, der går i stykker når de rammer jorden? Eller æbler som falder ned fra træerne?
 
-Start med at oprette en konto på [http://scratch.mit.edu](http://cratch.mit.edu/) hvis du ikke allerede har en. Ellers kan du ikke gemme dit spil til næste gang.
+Start med at oprette en konto på <http://scratch.mit.edu> hvis du ikke allerede har en. Ellers kan du ikke gemme dit spil til næste gang.
 
-Hvis du får problemer mens du er derhjemme, så skriv et spørgsmål på Coding Pirates-forummet: [http://forum.codingpirates.dk/](http://forum.codingpirates.dk/) 
+Hvis du får problemer mens du er derhjemme, så skriv et spørgsmål på Coding Pirates-forummet: <http://forum.codingpirates.dk/>
 
 ## Del 1: Få Scratch-katten til at bevæge sig
 
