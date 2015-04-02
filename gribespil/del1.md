@@ -54,7 +54,7 @@ Nogle kloge mennesker har fundet på at:
 
 * 90 betyder højre
 
-Prøv spillet ved at trykke på det grønne flag: ![image alt text](image_09.png)
+Prøv spillet ved at trykke på det grønne flag: ![](del1-billeder/image_09.png)
 
 ### Scratch vender på hovedet!
 
@@ -78,7 +78,7 @@ Det er lidt kedeligt at Scratch bare går rundt på en helt hvid baggrund. Find 
 
 For at lave en baggrund skal du klikke her:
 
-![image alt text](image_12.png)
+![](del1-billeder/image_12.png)
 
 Og så her:
 
