@@ -228,7 +228,7 @@ Tryk på "Linje"-knappen for at lave en linje:
 
 Lad os nu lægge linjen i bunden af skærmen, sådan:
 
-![image alt text](image_35.png)
+![](del1-billeder/image_35.png)
 
 Sådan! Lad os nu gå tilbage til vores kode! Tryk på "Scripts" oppe i toppen af skærmen:
 
