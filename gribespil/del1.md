@@ -1,7 +1,5 @@
----
-layout: post
-title: Scratch tutorial 1: Grib mønterne!
----
+Scratch tutorial: Grib mønterne!
+================================
 *af Sebastian Paaske Tørholm og Martin Dybdal*
 
 ![](del1-billeder/image_00.png)
@@ -12,11 +10,11 @@ Start med at oprette en konto på [http://scratch.mit.edu](http://cratch.mit.edu
 
 Hvis du får problemer mens du er derhjemme, så skriv et spørgsmål på Coding Pirates-forummet: [http://forum.codingpirates.dk/](http://forum.codingpirates.dk/) 
 
-# Del 1: Få Scratch-katten til at bevæge sig
+## Del 1: Få Scratch-katten til at bevæge sig
 
 Først skal vi lære hvordan vi får Scratch-katten til at bevæge sig ved at bruge piletasterne.
 
-## Vejledning
+### Vejledning
 
 Klik først på fanebladet "Scripts":
 
@@ -58,7 +56,7 @@ Nogle kloge mennesker har fundet på at:
 
 Prøv spillet ved at trykke på det grønne flag: ![image alt text](image_09.png)
 
-## Scratch vender på hovedet!
+### Scratch vender på hovedet!
 
 Hvis Scratch-katten vender på hovedet når du går til venstre:
 
@@ -72,11 +70,11 @@ Du behøver ikke forstå hvorfor, bare gør det!
 
 Sådan er det nogle gange at programmere, der er ting der er lidt skøre eller forvirrende, som man bare må leve med. (Vi vender tilbage, så lærer du det rigtigt senere.)
 
-# Del 2: Baggrund
+## Del 2: Baggrund
 
 Det er lidt kedeligt at Scratch bare går rundt på en helt hvid baggrund. Find på en eller anden baggrund han kan gå på. Det kan være hjemme på dit værelse, ude i dit køkken, i et supermarked eller måske går han en tur udenfor!
 
-## Vejledning
+### Vejledning
 
 For at lave en baggrund skal du klikke her:
 
@@ -90,11 +88,11 @@ Den baggrund jeg har lavet, ser sådan her ud:
 
 ![](del1-billeder/image_14.png)
 
-# Del 3: Lommepenge fra himlen!
+## Del 3: Lommepenge fra himlen!
 
 Nu skal vi få noget til at falde ned fra himlen! I mit spil tænker jeg at det skal være nogle 5-krone mønter, men det kan også være frugter, oste, balloner, bomber eller noget helt andet! Hvis det foregår i køkkenet, så er det måske tallerkener der falder ud af skabene og går i stykker når de rammer jorden.
 
-## Vejledning: Tegning
+### Vejledning: Tegning
 
 Først skal du oprette en ny figur ("sprite"). Tryk på penslen:
 
@@ -104,7 +102,7 @@ Tegn hvordan den skal se ud, her er min 5’er:
 
 ![](del1-billeder/image_16.png)
 
-## Vejledning: Programmering
+### Vejledning: Programmering
 
 Lad os starte med at få mønten til at falde ned fra himlen!
 
@@ -128,7 +126,7 @@ Del 4: Fang mønten
 
 Nu vil vi gerne have katten til at kunne få fat i mønten! Det gør vi lidt modsat hvad man skulle tro: Vi får mønten til at se om den rører ved katten. (Det kommer til at give mening om lidt. Stol på mig!)
 
-## Vejledning:
+### Vejledning:
 
 For at checke om vi rører ved noget skal vi bruge to brikker! Først skal vi bruge brikken der ser om vi rører ved noget! Den ligger her:
 
@@ -168,13 +166,13 @@ Vi kan gøre det samme som da mønten skulle blive ved med at falde ned!
 
 ![](del1-billeder/image_26.png)
 
-# Del 5: Saml mønten op (og flyt den op i toppen så den falder ned igen)
+## Del 5: Saml mønten op (og flyt den op i toppen så den falder ned igen)
 
 Sådan! Men vi vil ikke have mønten til at sige hej! Vi vil gerne have katten til at tage mønten!
 
 Måden vi gør det på er, vi flytter mønten op i toppen af skærmen! Så kan vi nemlig få lov til at samle den op igen!
 
-## Vejledning
+### Vejledning
 
 Vi får mønten op i toppen ved at ændre på det der hedder møntens "y". y fortæller hvor højt oppe mønten er.
 
@@ -210,13 +208,13 @@ Hvis vi checker hvad x er på de to kanter på skærmen, så kan vi se at den er
 
 Prøv nu at starte spillet! Mønten falder et nyt sted hver gang! Yay!
 
-# Del 6: Gulvet
+## Del 6: Gulvet
 
 Nu mangler vi bare at mønten forsvinder når den rammer bunden af skærmen.
 
 Vi ved allerede hvordan man laver noget der checker om vi rør noget. Så, lad os lave en linje der ligger i bunden af skærmen! Det er smart!
 
-## Vejledning
+### Vejledning
 
 Tryk på tegn-knappen, og lad os tegne en linje
 

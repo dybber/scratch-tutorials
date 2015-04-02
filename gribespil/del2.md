@@ -1,14 +1,12 @@
----
-layout: post
-title: Scratch-tutorial: Grib mønterne! (Dag 2)
----
+Scratch-tutorial: Udvidelser til "Grib mønterne!"
+=================================================
 *af Martin Dybdal*
 
 ![](del2-billeder/image_00.png)
 
 I denne tutorial vil vi udvide spillet vi lavede sidst, så det bliver endnu sjovere!
 
-# Del 1: Kostumer
+## Del 1: Kostumer
 
 Når man bevæger Scratch-katten med piletasterne, så ser det ud som om at han skøjter!
 
@@ -36,7 +34,7 @@ Det gør man ved at indsætte brikken "Næste kostume":
 
 Afprøv spillet!
 
-## Hvordan virker det?
+### Hvordan virker det?
 
 Klik på "Kostumer":
 
@@ -52,11 +50,11 @@ Du kan også tilføje dine egne kostumer, så han f.eks. har en hat på og går 
 
 ![](del2-billeder/image_09.png)
 
-# Del 2: Point
+## Del 2: Point
 
 For at gøre spillet til en konkurrence, skal vi have point når vi spiller.
 
-## Vejledning
+### Vejledning
 
 Vi skal tilbage til mønten. Tryk på mønten nede i vores sprites:
 
@@ -100,11 +98,11 @@ Brug evt. denne klods til at fikse problemet:
 
 ![](del2-billeder/image_18.png)
 
-# Del 3: Flere ting!
+## Del 3: Flere ting!
 
 Det er kedeligt at der kun falder én ting ned, lad os tilføje nogle flere!
 
-## Vejledning
+### Vejledning
 
 Kopier mønten:
 
@@ -128,11 +126,11 @@ Og tegn noget nyt og sjovt!
 
 Tilføj evt. endnu flere ting på samme måde.
 
-# Del 4: Liv
+## Del 4: Liv
 
 For at gøre spillet udfordrende, skal man også kunne tabe. Det er ikke sjovt hvis man aldrig taber. Lad os gøre så man starter med 5 "liv" og hver gang man ikke griber mønten, så mister man ét.
 
-## Vejledning
+### Vejledning
 
 Lav en ny "variabel", kald den “Liv”. 
 
