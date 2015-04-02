@@ -4,7 +4,7 @@ title: Scratch tutorial 1: Grib mønterne!
 ---
 *af Sebastian Paaske Tørholm og Martin Dybdal*
 
-![](del1-billeder/image_00.png)
+&#9;![](del1-billeder/image_00.png)
 
 I denne tutorial vil jeg forklare hvordan du kan lave dit helt eget Scratch spil, hvor man skal gribe det der falder ned! Du bestemmer selv hvad det er der skal falde ned, måske nogle tallerkener, der går i stykker når de rammer jorden? Eller æbler som falder ned fra træerne?
 
